@@ -8,9 +8,9 @@ Hi, I'm Hitesh Pattanayak, 6.5 years of experience | Polyglot | Backend Develope
 - 🌱 We are also Managing Event driven architecture using Kafka.
 - 👀 We manage branching and semantic versioning using GitFlow.
 - 💞️ We manage CI/CD pipeline using Github actions (runners) and ArgoCD.
-- In my last engagement (with Sureify) I worked on building no-code/low-code platform using Golang, Kubernetes, Postgres, Redis, RabbitMQ.
-- In my prior engagement (with Cognizant) I worked on automating redundant processes for a Banking Client using Python, Selenium, C#, MySQL.
-- In my prior engagement (with Infosys) I worked on  maintaining ASP.NET web app using C#, SQL Server, IIS.
+- In my last engagement, I worked on building no-code/low-code platform using Golang, Kubernetes, Postgres, Redis, RabbitMQ.
+- In one of my prior engagements, I worked on automating redundant processes for a Banking Client using Python, Selenium, C#, MySQL.
+- In one of my prior engagements, I worked on  maintaining ASP.NET web app using C#, SQL Server, IIS.
 
 **Languages and Tools:**  
 
